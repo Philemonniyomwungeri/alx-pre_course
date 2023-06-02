@@ -1,3 +1,2 @@
-# alx-pre_course
-this my git hub repository  help me on alx project
+another readme  for 0x01.git 
 README update from github.com
